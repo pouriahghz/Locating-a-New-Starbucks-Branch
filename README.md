@@ -40,5 +40,5 @@ Contributions are welcome! If you find any issues or want to enhance the project
 
 ## Contact
 
-For any inquiries, please contact [pouriahajigholizadeh.com]
+For any inquiries, please contact [pouriahajigholizadeh@gmail.com]
 
